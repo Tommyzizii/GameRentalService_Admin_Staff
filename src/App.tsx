@@ -21,11 +21,11 @@ const mockUsers = [{
 }];
 const mockStaff = [{
   id: 1,
-  name: "Admin User",
-  type: "Administrator"
+  name: "Alice",
+  type: "Full Time"
 }, {
   id: 2,
-  name: "Staff User",
+  name: "Bob",
   type: "Full Time"
 }];
 const mockGames = [{
